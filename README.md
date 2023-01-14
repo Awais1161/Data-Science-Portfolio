@@ -11,9 +11,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [Supervised Machine Learning: Life Expectancy](https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Life%20Expectancy/Life%20Expectancy%20Prediction%20%20(Part_1).ipynb): Testing out different Supervised Machiene Learning algorithms to build a model that accurately predicts "Life Expectancy" rate based on different imacting factors i.e. Alcohol, Polio, Diphtheria etc.
 
 ### Feature Engineering
-Feature Engineering is the process of extracting features from raw data using the domain knowledge of the problem. These features can be used to improve the performance of machine learning algorithms Feature engineering is the most important art in machine learning as it is considered as heart of any Machine Learning model. How successful a model is or how accurately it predicts that depends on the application of various feature engineering techniques.
+Feature Engineering is the process of extracting features from raw data using the domain knowledge of the problem. These features can be used to improve the performance of machine learning algorithms Feature engineering is the most important art in machine learning as it is considered as heart of any Machine Learning model. How successful a model is or how accurately it predicts that depends on the application of various feature engineering techniques. Here, some feature engineering techniques are explained well.
 
-**Fetaure Engineering Techniques**
 
 Click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on **LinkedIn**, click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter notebook** for a tip, or click <img src="icons/yt.svg" width="20px" align="top"> to watch the tip video on **YouTube:**
 
