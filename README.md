@@ -17,36 +17,44 @@ Exploratory Data Analysis is a method of evaluating or comprehending data in ord
 
 The detailed stepwise EDA is carried out here on different datasets using the Python programming language.
 
-\# | Description | Links
+\# | Description | Notebook
 --- | --- | ---
-1 | Credit Risk Dataset | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Exploratory%20Data%20Analysis/Credit%20Risk%20Dataset.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> 
-2 | House Prices Dataset | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Exploratory%20Data%20Analysis/House%20Prices%20Dataset.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
-3 | Zomato Restaurants Dataset | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Exploratory%20Data%20Analysis/Zomato%20Restaurants%20Dataset.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
+1 | Credit Risk Dataset | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Exploratory%20Data%20Analysis/Credit%20Risk%20Dataset.ipynb"> View code</a> 
+2 | House Prices Dataset | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Exploratory%20Data%20Analysis/House%20Prices%20Dataset.ipynb"> View code</a>
+3 | Zomato Restaurants Dataset | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Exploratory%20Data%20Analysis/Zomato%20Restaurants%20Dataset.ipynb"> View code</a>
 
 - # Feature Engineering
 
 Feature Engineering is the process of extracting features from raw data using the domain knowledge of the problem. These features can be used to improve the performance of machine learning algorithms Feature engineering is the most important art in machine learning as it is considered as heart of any Machine Learning model. How successful a model is or how accurately it predicts that depends on the application of various feature engineering techniques. Here, some feature engineering techniques are explained well.
 
-
-Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter notebook**.
-
-\# | Description | Links
+\# | Description | Notebook
 --- | --- | ---
-1 | Missing Data Imputation | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Handling%20Missing%20Values.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> 
-2 | Categorical Encoding | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Categorical%20Encoding.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
-3 | Count Encoding | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Count%20Encoding.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
-4 | Ordinal Encoding | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Ordinal%20Encoding.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
-5 | Imbalanced Dataset |</a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Handling%20Imbalanced%20Dataset.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
-6 | Outlier Engineering | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Handling%20Outliers.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
-7 | Feature Engineering Project | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Feature%20Engineering%20on%20Flight%20Price%20Dataset.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
+1 | Missing Data Imputation | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Handling%20Missing%20Values.ipynb"> View code</a> 
+2 | Categorical Encoding | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Categorical%20Encoding.ipynb"> View code</a>
+3 | Count Encoding | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Count%20Encoding.ipynb"> View code</a>
+4 | Ordinal Encoding | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Ordinal%20Encoding.ipynb"> View code</a>
+5 | Imbalanced Dataset |</a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Handling%20Imbalanced%20Dataset.ipynb"> View code</a>
+6 | Outlier Engineering | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Handling%20Outliers.ipynb"> View code</a>
+7 | Feature Engineering Project | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Feature%20Engineering%20on%20Flight%20Price%20Dataset.ipynb"> View code</a>
 
 - # Feature Selection
 
 While developing the machine learning model, only a few variables in the dataset are useful for building the model, and the rest features are either redundant or irrelevant. If we input the dataset with all these redundant and irrelevant features, it may negatively impact and reduce the overall performance and accuracy of the model. Hence it is very important to identify and select the most appropriate features from the data and remove the irrelevant or less important features, which is done with the help of feature selection in machine learning.
 - **Implementation of different feature selection methods with scikit-learn:**
 
-\# | Description | Links
+\# | Description | Notebook
 --- | --- | ---
-1 | Feature Selections Techniques | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Feature%20Selections%20Techniques.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a> 
-2 | Principal Component Analysis (PCA) | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Principal%20Component%20Analysis%20(PCA).ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
-3 | Linear Discriminant Analysis (LDA) | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Linear%20Discriminant%20Analysis%20(LDA).ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
+1 | Feature Selections Techniques | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Feature%20Selections%20Techniques.ipynb"> View code</a> 
+2 | Principal Component Analysis (PCA) | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Principal%20Component%20Analysis%20(PCA).ipynb"> View code</a>
+3 | Linear Discriminant Analysis (LDA) | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Linear%20Discriminant%20Analysis%20(LDA).ipynb"> View code</a>
+
+
+- # Feature Transformation
+
+Feature transformation is a technique by which machine learning model's performance can be enhanced . It is a mathematical transformation in which a mathematical formula is applied to a particular column(feature) and transform the values which are useful for our further analysis.In this notebook, the important feature transformation techniques are discussed in machine learning which are used to transform the data from one form to another form, keeping the essence of the data. In simple words, the transformers are the type of functions that are applied to data that is not normally distributed, and once applied there is a high of getting normally distributed data.
+
+\# | Description | Notebook
+--- | --- | ---
+1 | Feature Transformation Techniques | </a> <a href="https://github.com/Awais1161/Data-Science-Portfolio/blob/main/Feature%20Engineering/Feature%20Transformations.ipynb"> View code</a> 
+
+
